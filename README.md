@@ -4,9 +4,8 @@
 
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/lauren-marie-johnson/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>  
-    <br>
+      <img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Lauren | LinkedIn" width="21px"/>
+    </a>
     <img src="https://komarev.com/ghpvc/?username=lauren-m-johnson&style=flat-square&color=blue" alt=""/>
 </div>
   
