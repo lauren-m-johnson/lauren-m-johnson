@@ -1,5 +1,5 @@
-<div id="header" align="center">  
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
+<div id="banner" align="center">  
+  <img src="https://i.imgur.com/ztNniMh.jpg?1" width="900" height="300" />
 </div>
 
 <div id="badges" align="center">
@@ -23,6 +23,10 @@
 
 - :mailbox: How to reach me:  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lauren-marie-johnson/)
 
+<div id="header" align="center">  
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
+</div>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -45,6 +49,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-m-johnson&layout=compact&theme=tokyonight)
 
 ![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauren-m-johnson&show_icons=true&theme=tokyonight)
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
