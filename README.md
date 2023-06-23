@@ -1,5 +1,5 @@
 <div id="header" align="center">  
-  <img src="https://media.giphy.com/media/7OMR3y1E9QeYsr9olS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -8,13 +8,8 @@
     </a>  
     <br>
     <img src="https://komarev.com/ghpvc/?username=lauren-m-johnson&style=flat-square&color=blue" alt=""/>
-  <h1>Welcome!</h1>
 </div>
   
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</div>
-
 ---
 
 ### 👩🏽‍💻 About Me :
@@ -51,4 +46,7 @@
 
 ![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauren-m-johnson&show_icons=true&theme=tokyonight)
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</div>
 
