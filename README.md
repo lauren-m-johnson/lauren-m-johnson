@@ -48,16 +48,3 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lauren-m-johnson&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauren-m-johnson&layout=compact&theme=tokyonight)
-
-![Lauren's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauren-m-johnson&show_icons=true&theme=tokyonight)
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
-</div>
-
