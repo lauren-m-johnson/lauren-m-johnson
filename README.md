@@ -13,8 +13,6 @@
 
 ### 👩🏽‍💻 About Me :
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Full Stack Developer from California.
- 
- - :telescope: I’m a Fullstack Software Engineer.
 
 - :seedling: Exploring TypeScript.
 
